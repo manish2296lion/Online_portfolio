@@ -75,7 +75,7 @@ padding:100px;
 }
 #works{
 	
-	background-color: #e8edf3;
+	background-color: #F9Ba32;
 }
 }
 #contact{
@@ -185,9 +185,10 @@ a{
 	padding-left: 0px;
 }
 #list ul li{
-color:white;
+background-color: #2F3131;
+color:#F8F1E5;
 font-size: 40px;
-background-color: black;
+
 }
 
 #list ul li ul li{
@@ -195,7 +196,7 @@ background-color: black;
 padding:15px;
 color:black;
 font-size: 30px;
-background-color: #e8edf3;
+background-color:#F9Ba32;
 
 }
 #list ul li ul li ul li{
@@ -212,7 +213,7 @@ padding:20px;
 font-size: 20px;
 }
 #list a{
-	color:blue;
+	color:#217CA3;
 }
 #list{
 
