@@ -64,10 +64,15 @@ section{
 	
 }
 #abut{
-	background-color: #e8edf3;
+	background-color: #fff;
 	position: relative;
 	padding-top:200px;
 	
+}
+#abut a{
+	font-size:25px;
+color:#16253D;
+
 }
 #interests{
 background-color: #c43235;
@@ -230,6 +235,7 @@ span{
 .con-hr{
 	background-color: white;
 }
+
 /* #list8 {  }
 #list8 ul { list-style:none; }
 #list	8 ul li { font-family:Georgia,serif,Times; font-size:30px; }
