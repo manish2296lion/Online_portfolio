@@ -79,7 +79,8 @@ padding:100px;
 }
 }
 #contact{
-height:500px;
+	padding-top: 170px;
+height:530px;
 }
 img{
 	max-width:100%;
@@ -219,6 +220,14 @@ font-size: 20px;
 span{
 	text-decoration: underline;
 }
+
+.contact-sec{
+	text-align:center;
+	color:white;
+	display: block;
+}
+.con-hr{
+	background-color: white;
 }
 /* #list8 {  }
 #list8 ul { list-style:none; }
