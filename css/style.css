@@ -60,7 +60,7 @@ section{
 	padding:0px,auto;
 	font-size: 23px;
 	font-family: Open Sans;
-	text-align: justify;
+	
 	
 }
 #abut{
@@ -235,6 +235,18 @@ span{
 .con-hr{
 	background-color: white;
 }
+.navbar{
+	width: 100%;
+	
+  
+}
+body{
+	
+   
+    position: relative;
+}
+.wrapper {position: absolute; width: 100%; overflow-x: hidden}
+
 
 /* #list8 {  }
 #list8 ul { list-style:none; }
